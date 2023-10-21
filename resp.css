@@ -1,0 +1,32 @@
+@media(width >= 768){
+
+.container{
+   width: 100vh;
+   display: flex;
+   flex-direction: row;
+}
+.top{
+    width: 768px;
+    display: flex;
+    flex-direction: row;
+}
+.topp{
+    width: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
